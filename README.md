@@ -2,6 +2,13 @@
 
 ## Link: https://fancy-torrone-593a10.netlify.app/
 
+## Technologies that were used:
+- ReactJS
+- JavaScript
+- Styled Component
+- ChartJS
+- Bootstrap
+
 ![project image](https://github.com/MatheusCTorres/Covid-Tracker/blob/main/project/img/main.png)
 
 
