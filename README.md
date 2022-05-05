@@ -13,7 +13,8 @@
 
 
 **It is a website where you can see and compare the numbers of covid cases (*of contamination and recovery*) in the world**
-** To compare To compare the numbers between countries you need to do:
+
+**To compare To compare the numbers between countries you need to do**:
 - With one click you can choose any country.
 - To remove a chosen country just double click to remove.
 
